@@ -4,7 +4,7 @@
 
 ### Basic Requirements
 **Create a basic Ecommerce landing page with HTML which should include:**
->- [ ] A header section with a logo and navigation menu
+>- [X] A header section with a logo and navigation menu
 >- [ ] A hero section with a catchy headline, subheading, and a call-to-action button.
 >- [ ] A product showcase section with images, titles, and brief descriptions of featured products
 >- [ ] Incorporate customer reviews or testimonials to build trust and credibility
